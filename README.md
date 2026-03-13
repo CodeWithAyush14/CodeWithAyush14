@@ -37,7 +37,7 @@ Certified Google Play Developer
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,linux,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,linux,vscode,tensorflow" />
 </p>
 
 ---
