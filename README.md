@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Student | DevOps Learner | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Student;Python+Developer;C%2B%2B+Programmer;LeetCode+Problem+Solver;Tech+Blogger" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Student;Python+Developer;DSA+Learner;LeetCode+Problem+Solver;Tech+Blogger" />
 </p>
 
 ---
